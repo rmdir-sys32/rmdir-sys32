@@ -8,9 +8,7 @@
 <body>
    <h1 align="center">Hi 👋 </h1>
 <h3 align="center">UG CSE DS+AI '27</h3>
-
-<p>This ID has been made specifically for placements and include repositories from my previous ID.</p>
-<p>Checkout my old Github ID here : <a href="https://github.com/m-tabish">m-tabish</a></p>
+ 
 
 - 🔭 I’m currently working on [Bluprnt](https://www.bluprnt.tech/), [CherryDB](https://cherrydb.tabishcodes.site/), [X-Mania](https://xmania.tabishcodes.site/)
 
