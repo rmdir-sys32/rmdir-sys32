@@ -6,7 +6,7 @@
     
 </head>
 <body>
-   <h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
+   <h1 align="center">Hi 👋 </h1>
 <h3 align="center">UG CSE DS+AI '27</h3>
 
 <p>This ID has been made specifically for placements and include repositories from my previous ID.</p>
